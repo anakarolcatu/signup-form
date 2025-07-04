@@ -31,7 +31,7 @@ body {
     width: 60vw;
     min-width: 345px;
     flex-grow: 1;
-    background: url('./assets/g8o4lz34qf5e1.png');
+    background: url('../assets/g8o4lz34qf5e1.png');
     background-size: cover;
     color: #fff;
 }
